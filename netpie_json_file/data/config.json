@@ -1,0 +1,8 @@
+{
+  "ssid":     "<WIFI_SSID>",
+  "password": "<WIFI_KEY>",
+  "APPID":    "<APPID>",
+  "KEY":      "<APPKEY>",
+  "SECRET":   "<APPSECRET>",
+  "ALIAS":    "<ALIAS>"
+}
